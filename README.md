@@ -1,2 +1,2 @@
-# nlse-fse.github.io
-NLSE workshop site for AAAI  2018
+# nl4se2018.github.io
+NLSE workshop site for ESEC/FSE 2018
