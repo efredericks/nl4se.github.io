@@ -1,2 +1,2 @@
 # nl4se2018.github.io
-NLSE workshop site for ESEC/FSE 2018
+NL4SE workshop site for ESEC/FSE 2018
